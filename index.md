@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Edinburgh (MD) Simulation Day 8th May 2017
 
-You can use the [editor on GitHub](https://github.com/EdinburghMD/EdinburghMD.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Description
 
-### Markdown
+The aim of the Edinburgh (MD) Simulation Day is to bring together practitioners of molecular dynamics simulations and beyond at the University of Edinburgh across different Schools in the College of Science as well as other universities in Edinburgh.   
+If you have ever considered any of the following questions:   
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*  Are there other researchers in Edinburgh using similar simulation techniques to me and if so what kind of scientific questions do they try to address?
+*  Could I learn from researchers in other Schools how to address certain problems that require (MD) simulations?
+*  What kind of (MD) simulation based research goes on in other schools?
+*  I am looking for new collaboration that will involve (MD) simulations within the University of Edinburgh. 
 
-```markdown
-Syntax highlighted code block
+Then, this meeting it is probably for your. The idea is to give an overview of what research in the area of simulations is carried out at the University of Edinburgh and facilitate future collaborations across the different schools. 
 
-# Header 1
-## Header 2
-### Header 3
+## Registration
 
-- Bulleted
-- List
+If you are interested in registering for the half day event bringing various researches interested in (MD) simulations at the University of Edinburgh together, please click [here](https://goo.gl/forms/HgMDnuAQ70oFL1Ag2).   
+Attendance is free since the event is kindly sponsored by the New Network Award of the Institute for Academic Development at the University of Edinburgh. 
 
-1. Numbered
-2. List
+## Schedule
 
-**Bold** and _Italic_ and `Code` text
+1:30 Registration  
+2:00 **Meet the School of Chemistry** *talk* (Dr Philip Camp)  
+2:30 **Meet the School of Physics** *talk* (Prof Davide Marenduzzo)   
+3:00 **Coffee break**   
+3:30 **Meet the School of Mathematics** *talk* (Dr Ben Goddard)  
+4:00 **Meet the School of Engineering** *talk* (Prof Jason Reese)   
+4:30 **Scientific speed dating** -- a structured networking event  
+5:30 **Networking** Drinks and snacks provided  
+6:30 **Pub**, TBC
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contact
 
-### Jekyll Themes
+If you have any questions please contact any of the organisers:   
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EdinburghMD/EdinburghMD.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Marieke Schor** (School of Physics) mschor[at]ed.ac.uk  
+**Toni Mey** (School of Chemistry) antonia.mey[at]ed.ac.uk  
+**Ben Goddard** (School of Mathematics) b.goddard[at].ed.ac.uk
 
-### Support or Contact
+## FAQ
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Q:** I don't do molecular dynamics simulations but other kinds of simulations, is this meeting still for me?   
+**A:** Yes, absolutely. Maybe this way new collaborations could even be formed. 
