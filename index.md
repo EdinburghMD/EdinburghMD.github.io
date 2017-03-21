@@ -15,7 +15,9 @@ Then, this meeting it is probably for your. The idea is to give an overview of w
 ## Registration
 
 If you are interested in registering for the half day event bringing various researches interested in (MD) simulations at the University of Edinburgh together, please click [here](https://goo.gl/forms/HgMDnuAQ70oFL1Ag2).   
-Attendance is free since the event is kindly sponsored by the New Network Award of the Institute for Academic Development at the University of Edinburgh. 
+Attendance is free since the event is kindly sponsored by the New Network Award of the Institute for Academic Development at the University of Edinburgh.   
+
+Registration closes: **21st April 2017, 5pm.** 
 
 ## Schedule
 
