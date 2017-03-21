@@ -1,3 +1,5 @@
+# Edinburgh (MD) Simulation Day 8th May 2017
+
 ## Description
 
 The aim of the Edinburgh (MD) Simulation Day is to bring together practitioners of molecular dynamics simulations and beyond at the University of Edinburgh across different Schools in the College of Science as well as other universities in Edinburgh.   
