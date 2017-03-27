@@ -12,6 +12,8 @@ If you have ever considered any of the following questions:
 
 Then, this meeting it is probably for your. The idea is to give an overview of what research in the area of simulations is carried out at the University of Edinburgh and facilitate future collaborations across the different schools. 
 
+This event has been supported with an IAD New Network Award.
+
 ## Registration
 
 If you are interested in registering for the half day event bringing various researches interested in (MD) simulations at the University of Edinburgh together, please click [here](https://goo.gl/forms/HgMDnuAQ70oFL1Ag2).   
