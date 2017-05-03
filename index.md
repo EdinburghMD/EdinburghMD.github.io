@@ -37,7 +37,7 @@ Registration closes: **21st April 2017, 5pm.**
 ## Location
 
 University of Edinburgh - King's Buildings Campus   
-James Clerk Maxwell Building (JCMB) -- room 5323 (Maths Common Room)
+James Clerk Maxwell Building (JCMB) -- room 6206 for talks and room 6301 for networking
 
 ## Contact
 
