@@ -28,7 +28,7 @@ Registration closes: **21st April 2017, 5pm.**
 2:30 **Meet the School of Physics** *talk* (Prof Davide Marenduzzo)   
 3:00 **Coffee break**   
 3:30 **Meet the School of Mathematics** *talk* (Dr Ben Goddard)  
-4:00 **Meet the School of Chemistry** *talk* (Dr Philip Camp)   
+4:00 **Meet the School of Chemistry** *talk* (Dr Philip Camp) [link to talk](Media/Presentation_Chemistry.pdf)   
 4:30 **Scientific speed dating** -- a structured networking event  
 5:30 **Networking** Drinks and snacks provided  
 6:30 **Pub**, TBC
