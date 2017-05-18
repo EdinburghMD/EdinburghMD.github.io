@@ -24,10 +24,10 @@ Registration closes: **21st April 2017, 5pm.**
 ## Schedule
 
 1:30 Registration  
-2:00 **Meet the School of Engineering** *talk* (Prof Jason Reese)  
-2:30 **Meet the School of Physics** *talk* (Prof Davide Marenduzzo)   
+2:00 **Meet the School of Engineering** *talk* (Prof Jason Reese) [link to talk](Media/Presentation_Engineering.pdf)  
+2:30 **Meet the School of Physics** *talk* (Prof Davide Marenduzzo) [link to talk](Media/Presentation_Physics.pdf)   
 3:00 **Coffee break**   
-3:30 **Meet the School of Mathematics** *talk* (Dr Ben Goddard)  
+3:30 **Meet the School of Mathematics** *talk* (Dr Ben Goddard) [link to talk](Media/Presentation_Maths.pdf)  
 4:00 **Meet the School of Chemistry** *talk* (Dr Philip Camp) [link to talk](Media/Presentation_Chemistry.pdf)   
 4:30 **Scientific speed dating** -- a structured networking event  
 5:30 **Networking** Drinks and snacks provided  
